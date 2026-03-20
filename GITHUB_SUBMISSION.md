@@ -1,4 +1,4 @@
-﻿# Bilibili 综合热榜爬取项目说明（GitHub 提交版）
+﻿# Bilibili 综合热榜爬取项目说明
 
 ## 1. 项目简介
 本项目用于抓取 Bilibili 综合热榜页面：
@@ -141,3 +141,7 @@ python .\bili_hot_mcp.py
 1. 增加“按时间周期（日/周）对比热门变化”功能。
 2. 增加“分类榜（动画、游戏、影视）”抓取策略。
 3. 增加可视化（如 Streamlit/前端图表）用于展示榜单趋势。
+
+## 9. 详细教程
+
+https://blog.csdn.net/JHXL_/article/details/159238441
