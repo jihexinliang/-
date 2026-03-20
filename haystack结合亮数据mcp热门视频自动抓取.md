@@ -1,4 +1,4 @@
-﻿# Bilibili 综合热榜爬取项目说明
+﻿# haystack结合亮数据mcp热门视频自动抓取-Bilibili 综合热榜爬取项目
 
 ## 1. 项目简介
 本项目用于抓取 Bilibili 综合热榜页面：
